@@ -188,28 +188,11 @@ The Thomas Algorithm is widely used in engineering and scientific computing, inc
 Bachelor of Mechanical Engineering  
 Kathmandu University
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/davdojha
 
-Portfolio: https://yourportfolio.com
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-Feel free to use, modify, and share this project for educational and research purposes.
+Portfolio: https://davidojha.com.np
 
 ---
 
-## ⭐ Support
-
-If you found this project helpful:
-
-- ⭐ Star this repository
-- 🍴 Fork the project
-- 🐛 Report issues
-- 💡 Suggest improvements
-- 🤝 Contribute with pull requests
 
 Your support is greatly appreciated!
